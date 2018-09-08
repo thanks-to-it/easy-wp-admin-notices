@@ -1,6 +1,6 @@
 # WP Admin Notices
 An easy and convenient way to create WordPress admin notices that can be closed persistently. Besides that it has some cool features:
-* Keep your notices hidden only for the user who closed it.
+* Keep your notices hidden only for users who closed it.
 * Display your notice on specific situations, like when some plugin gets updated or activated or on specific admin screen ids or on $_GET / $_POST requests, 
 * [Create your own special cases](https://github.com/thanks-to-it/wp-admin-notices/wiki/Custom-display_on) where/when your notice should be displayed
 
